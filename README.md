@@ -3,5 +3,11 @@
 
 ## trying my best to become ***pro***
 
-
+- ✅HTML
+- ✅CSS
+- ✅JS
+- ⏳REACT
+- ❌NODE.JS
+- ❌TYPESCRIPT
+- ❌SASS
 
