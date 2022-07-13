@@ -6,8 +6,8 @@
 - ✅HTML
 - ✅CSS
 - ✅JS
-- ⏳REACT
-- ❌NODE.JS
+- ✅REACT
+- ⏳NODE.JS & EXPRESS
 - ❌TYPESCRIPT
 - ❌SASS
 
