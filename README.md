@@ -7,7 +7,7 @@
 - ✅CSS
 - ✅JS
 - ✅REACT
-- ⏳NODE.JS & EXPRESS
+- ⏳RUBY ON RAILS
 - ❌TYPESCRIPT
 - ❌SASS
 
