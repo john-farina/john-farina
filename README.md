@@ -5,9 +5,9 @@
 
 - ✅HTML
 - ✅CSS
+- ✅SASS
 - ✅JS
 - ✅REACT
 - ⏳RUBY ON RAILS
 - ❌TYPESCRIPT
-- ❌SASS
 
