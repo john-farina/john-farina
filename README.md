@@ -3,11 +3,11 @@
 
 ## trying my best to become ***pro***
 
-- ✅HTML
-- ✅CSS
-- ✅SASS
-- ✅JS
-- ✅REACT
-- ⏳RUBY ON RAILS
-- ❌TYPESCRIPT
+- ✅ **HTML**
+- ✅ **CSS**
+- ✅ **SASS**
+- ✅ **JS**
+- ✅ **REACT**
+- ⏳ ***RUBY ON RAILS***
+- ❌ **TYPESCRIPT**
 
