@@ -8,6 +8,7 @@
 - ✅ **JS**
 - ✅ **REACT**
 - ✅ **SASS**
-- ⏳ ***RUBY ON RAILS***
+- ✅ ***RUBY ON RAILS***
 - ❌ **TYPESCRIPT**
+
 
