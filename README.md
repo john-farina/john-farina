@@ -7,6 +7,7 @@
 - ✅ **REACT**
 - ✅ **SASS**
 - ✅ **RUBY ON RAILS**
+- ❌ **THREE.js**
 - ❌ **TYPESCRIPT**
 
 
