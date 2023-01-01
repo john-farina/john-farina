@@ -7,7 +7,12 @@
 - ✅ **REACT**
 - ✅ **SASS**
 - ✅ **RUBY ON RAILS**
+- ⏳ **TYPESCRIPT**
 - ❌ **THREE.js**
-- ❌ **TYPESCRIPT**
 
+### PERSONAL TASKS:
+- [ ] create a real paper resume of projects.
+- [ ] finalize web resume *(take gifs and add slideshow of each wesbite well explaining what it is and how i made it, plus small tweaks)*
+- [ ] finalize soundScapes *(final touches, add content)*
+- [ ] apply, apply, apply
 
