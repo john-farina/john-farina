@@ -12,7 +12,7 @@
 
 ### PERSONAL TASKS:
 - [ ] create a real paper resume of projects.
-- [ ] finalize web resume *(take gifs and add slideshow of each wesbite well explaining what it is and how i made it, plus small tweaks)*
+- [ ] clean up projects, make good readmes with gifs and explaining what i did
 - [ ] finalize soundScapes *(final touches, add content)*
 - [ ] apply, apply, apply
 
