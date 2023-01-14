@@ -6,5 +6,5 @@
 - ✅ **SASS**
 - ✅ **RUBY ON RAILS**
 - ⏳ **TYPESCRIPT**
-- ❌ **THREE.js**
+- ⏳ **THREE.js**
 
