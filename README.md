@@ -1,4 +1,6 @@
 # johnFarina
+## ⏳ **finishing RESUME**
+
 - ✅ **HTML**
 - ✅ **CSS**
 - ✅ **JS**
