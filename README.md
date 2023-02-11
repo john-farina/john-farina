@@ -14,6 +14,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
  <br/>
  <br/>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fjohn-farina&count_bg=%232EC1E6&title_bg=%23E25454&icon=&icon_color=%23E7E7E7&title=GITHUB+PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fjohn-farina&count_bg=%232EC1E6&title_bg=%23E25454&icon=&icon_color=%23E7E7E7&title=GITHUB+PAGE+VIEWS&edge_flat=false)](https://github.com/john-farina)
 <!-- MarkDown Icons -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
