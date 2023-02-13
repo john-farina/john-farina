@@ -13,9 +13,9 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-| [soundScapes]  | Tamagotchi | First Header  | Second Header |
+| [[soundScapes]]()  | [Tamagotchi]() | First Header  | Second Header |
 | ------------- | ------------- | ------------- | ------------- |
-| <img width="100" src="./images/soundscapes-intro.gif" />  | <img width="100" src="./images/Tamgotchi-Intro.gif" />  | Content Cell  | Content Cell  |
+| <a href="https://"><img width="100" src="./images/soundscapes-intro.gif" /></a> | <a href="https://"><img width="100" src="./images/Tamgotchi-Intro.gif" /></a>  | Content Cell  | Content Cell  |
 
 <!-- | First Header  | Second Header |
 | ------------- | ------------- |
