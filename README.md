@@ -1,16 +1,13 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fjohn-farina&count_bg=%232EC1E6&title_bg=%23E25454&icon=&icon_color=%23E7E7E7&title=GITHUB+PAGE+VIEWS&edge_flat=false)](https://github.com/john-farina)
 
-| [[soundScapes]]()  | [Tamagotchi]() | [Snake]()  | [Pocket Calculator]() |
+<!-- | [[soundScapes]]()  | [Tamagotchi]() | [Snake]()  | [Pocket Calculator]() |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <a href="https://"><img width="100" src="./images/soundscapes-intro.gif" /></a> | <a href="https://"><img width="100" src="./images/Tamgotchi-Intro.gif" /></a>  | <a href="https://"><img width="100" src="./images/playing-snake-2.gif" /></a>  | <a href="https://"><img width="100" src="./images/pocketCalc.gif" /></a> |
 
 [Zoltar]() | [Magic 8 Ball]()  | [[etchaSketch]]()  | [Tic Tac Toe]() |
 :-----------: | :-----------: | :-----------: | :-----------: |
 | <a href="https://"><img width="100" src="./images/ZoltarFirst.gif" /></a>  | <a href="https://"><img width="100" src="./images/8Ball-Opening%20(1).gif" /></a>  | <a href="https://"><img width="100" src="./images/EtchaDrawReset.gif" /></a> | <a href="https://"><img width="100" src="./images/Win-TicTacToe.gif" /></a>  |
-
-<!-- | First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  | -->
+ -->
 
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
