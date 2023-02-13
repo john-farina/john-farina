@@ -2,7 +2,15 @@
 
 | [[soundScapes]]()  | [Tamagotchi]() | [Snake]()  |
 | :-----------: | :-----------: | :-----------: |
-| <a href="https://"><img width="100" src="./images/soundscapes-intro.gif" /></a> | <a href="https://"><img width="100" src="./images/Tamgotchi-Intro.gif" /></a>  | Content Cell  |
+| <a href="https://"><img width="100" src="./images/soundscapes-intro.gif" /></a> | <a href="https://"><img width="100" src="./images/Tamgotchi-Intro.gif" /></a>  | <a href="https://"><img width="100" src="./images/playing-snake-2.gif" /></a>  |
+
+| [[Pocket Calculator]]()  | [Zoltar]() | [Magic 8 Ball]()  |
+| :-----------: | :-----------: | :-----------: |
+| <a href="https://"><img width="100" src="./images/pocketCalc.gif" /></a> | <a href="https://"><img width="100" src="./images/ZoltarFirst.gif" /></a>  | <a href="https://"><img width="100" src="./images/8Ball-Opening%20(1).gif" /></a>  |
+
+| [[etchaSketch]]()  | [Tic Tac Toe]() |
+| :-----------: | :-----------: |
+| <a href="https://"><img width="100" src="./images/EtchaDrawReset.gif" /></a> | <a href="https://"><img width="100" src="./images/Win-TicTacToe.gif" /></a>  |
 
 <!-- | First Header  | Second Header |
 | ------------- | ------------- |
