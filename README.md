@@ -30,3 +30,4 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <!-- MarkDown Icons -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
+![itsAllAboutTheGame](https://github.com/john-farina/john-farina/assets/78773266/079d1b21-d622-4e72-adce-afee52aa3ce0)
