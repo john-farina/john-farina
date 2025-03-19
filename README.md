@@ -9,7 +9,7 @@
 | <a href="https://"><img width="100" src="./images/ZoltarFirst.gif" /></a>  | <a href="https://"><img width="100" src="./images/8Ball-Opening%20(1).gif" /></a>  | <a href="https://"><img width="100" src="./images/EtchaDrawReset.gif" /></a> | <a href="https://"><img width="100" src="./images/Win-TicTacToe.gif" /></a>  |
  -->
 
-
+<!-- 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
